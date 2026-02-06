@@ -1,6 +1,6 @@
 # Controlador de Hábitos
 
-Contador de Hábitos em python (sem arquivo).
+Contador de Hábitos em python (sem arquivo). <br>
 **Objetivo:** registrar hábitos e ver resumo.
 
 **Na entrega final deve conter 🎯**
